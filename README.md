@@ -27,11 +27,11 @@ Para **empoderar**, trazer maior segurança e aproximar o BancoBMG juntamente co
 
 O nosso **diferencial** é a utilização de chatbot e gamificação para engajar cada vez mais mulheres e a inteligência artificial para análise dos dados de evolução dos  negócios, assim como o direcionamento de melhores produtos financeiros e até a sugestão de criação de um novo produto.
 
-[Documentação](https://github.com/camilamelo14/MegaHackWoman/blob/master/docs/MegaHack%20-%20EmpreendEla.pdf)
+[Documentação](https://github.com/graceup16/MegaHackWoman/blob/master/docs/MegaHack%20-%20EmpreendEla.pdf)
 
 
 ### Protótipo
-![ScreenShot](https://github.com/camilamelo14/MegaHackWoman/blob/master/docs/fluxo_app)
+![ScreenShot](https://github.com/graceup16/MegaHackWoman/blob/master/docs/fluxo_app)
 
 [Acesse aqui o protótipo do App](https://www.figma.com/proto/vdZwTu7pxs9spSMeCp2M8e/Megahack?node-id=8%3A1&scaling=scale-down)
 
